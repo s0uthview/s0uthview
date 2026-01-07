@@ -1,16 +1,16 @@
-## Hi there 👋
+## saoirse / ulysses
+haii !!! 🦌🦌 welcome to my profile
 
-<!--
-**s0uthview/s0uthview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a systems, compiler, and DSP nerd, and a web developer every full moon.
+i have experience with:
 
-Here are some ideas to get you started:
+- **rust** - DSP, VST plugins, async services, embedded systems, compilers, kernel development
+- **c / c++** - compilers, operating systems, kernel development, embedded systems
+- **ocaml** - static analysis, language tools
+- **python** - occasional scripting and automation
+- **ruby** - ruby on rails, scripting
+- **shell (bash, zsh, etc)** - build systems, automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and a bunch of stuff. feel free to check out my page!
+
+contact me here! [saoirse@fawn.rest](mailto:saoirse@fawn.rest)
