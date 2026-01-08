@@ -13,5 +13,4 @@ i have experience with:
 
 and a bunch of stuff. feel free to check out my page!
 
-check out [my site!](https://fawn.rest/)
-contact me here! [saoirse@fawn.rest](mailto:saoirse@fawn.rest)
+check out [my site!](https://fawn.rest/) or, contact me here! [saoirse@fawn.rest](mailto:saoirse@fawn.rest)
